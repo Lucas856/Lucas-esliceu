@@ -11,7 +11,7 @@ Aquest repositori utilitza **Markdown** perque és una tasca del classroom.
 
 - **Format de text**
   - **Això és negreta**
-  - Això és cursiva*
+  - *Això és cursiva*
   - ***Això és negreta i cursiva***
 
 - **Enllaços**
