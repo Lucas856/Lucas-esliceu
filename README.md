@@ -2,16 +2,7 @@
 # Benvinguts al meu Repositori
 
 ## Descripció
-Aquest repositori utilitza **Markdown** per estructurar el contingut de manera clara i organitzada.
-
-### Funcionalitats
-1. Encapçalaments
-2. Formatació de text (*negreta* i *cursiva*)
-3. Creació d'enllaços
-4. Llistes (ordenades i no ordenades)
-5. Cites estilitzades
-
-#### Exemple de Formatació
+Aquest repositori utilitza **Markdown** perque és una tasca del classroom.
 
 - **Encapçalaments**
   - # Nivell 1
@@ -19,17 +10,17 @@ Aquest repositori utilitza **Markdown** per estructurar el contingut de manera c
   - ### Nivell 3
 
 - **Format de text**
-  - Negreta: **Això és negreta**
-  - Cursiva: *Això és cursiva*
-  - Negreta i Cursiva: ***Això és negreta i cursiva***
+  - **Això és negreta**
+  - Això és cursiva*
+  - ***Això és negreta i cursiva***
 
 - **Enllaços**
   - [GitHub](https://github.com)
 
 - **Llistes**
   - Llistes no ordenades:
-    - Element 1
-    - Element 2
+    - Llista 1
+    - Llista 2
   - Llistes ordenades:
     1. Primer
     2. Segon
